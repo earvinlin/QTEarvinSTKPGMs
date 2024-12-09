@@ -41,6 +41,8 @@ endif()
 # _directory_contents at /Users/earvin/Qt/6.8.0/macos/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/*.cpp")
 set(OLD_GLOB
+  "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+  "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/mocs_compilation.cpp"
   "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/3.29.3/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Qt_6_8_0_for_macOS-Debug/QTEarvinStocksPGMs_autogen/EWIEGA46WW/moc_qtearvinstockswindow.cpp"
   "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Qt_6_8_0_for_macOS-Debug/QTEarvinStocksPGMs_autogen/mocs_compilation.cpp"
@@ -64,6 +66,7 @@ endif()
 # _directory_contents at /Users/earvin/Qt/6.8.0/macos/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/*.h")
 set(OLD_GLOB
+  "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/moc_predefs.h"
   "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Qt_6_8_0_for_macOS-Debug/QTEarvinStocksPGMs_autogen/include/ui_qtearvinstockswindow.h"
   "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Qt_6_8_0_for_macOS-Debug/QTEarvinStocksPGMs_autogen/moc_predefs.h"
   "/Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/qtearvinstockswindow.h"
