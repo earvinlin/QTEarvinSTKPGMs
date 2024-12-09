@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QTEarvinStocksPGMs_FILE /Users/earvin/workspaces/GithubProjects/QTProjects/QTEarvinSTKPGMs/QTEarvinStocksPGMs/build/Qt_6_8_0_for_macOS-Debug/QTEarvinStocksPGMs.app/Contents/MacOS/QTEarvinStocksPGMs)
+set(__QT_DEPLOY_TARGET_QTEarvinStocksPGMs_TYPE EXECUTABLE)
