@@ -1,0 +1,18 @@
+# ninja log v6
+10	254	7554900433916961	E:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c32855d36de8e289
+1057	3324	7554897165753115	CMakeFiles/QTEarvinStocksPGMs.dir/QTEarvinStocksPGMs_autogen/mocs_compilation.cpp.obj	b2424bed3142fa4b
+235	1049	7554897164556655	QTEarvinStocksPGMs_autogen/timestamp	4d6dbaa6770fcaca
+235	1049	7554897164556655	QTEarvinStocksPGMs_autogen/mocs_compilation.cpp	4d6dbaa6770fcaca
+235	1049	7554897164556655	E:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/timestamp	4d6dbaa6770fcaca
+1062	3501	7554897165808677	CMakeFiles/QTEarvinStocksPGMs.dir/main.cpp.obj	a73690f1c30c00dc
+235	1049	7554897164556655	E:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/mocs_compilation.cpp	4d6dbaa6770fcaca
+1068	3500	7554897165863222	CMakeFiles/QTEarvinStocksPGMs.dir/qtearvinstockswindow.cpp.obj	8b63572f970044c2
+3501	3769	7554897190203788	QTEarvinStocksPGMs.exe	fa485f163bf99838
+254	1150	7554900443713312	build.ninja	d47b6263cb88d64d
+6	221	7554900444264031	E:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c32855d36de8e289
+232	429	7554900446523947	QTEarvinStocksPGMs_autogen/timestamp	4d6dbaa6770fcaca
+232	429	7554900446523947	QTEarvinStocksPGMs_autogen/mocs_compilation.cpp	4d6dbaa6770fcaca
+232	429	7554900446523947	E:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/timestamp	4d6dbaa6770fcaca
+232	429	7554900446523947	E:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/mocs_compilation.cpp	4d6dbaa6770fcaca
+430	5434	7554900448505385	CMakeFiles/QTEarvinStocksPGMs.dir/qtearvinstockswindow.cpp.obj	8b63572f970044c2
+5435	6303	7554900498553427	QTEarvinStocksPGMs.exe	fa485f163bf99838
