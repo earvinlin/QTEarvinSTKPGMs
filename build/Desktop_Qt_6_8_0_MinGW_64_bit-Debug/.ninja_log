@@ -1,0 +1,18 @@
+# ninja log v6
+2311	4818	7554580020000000	CMakeFiles/QTEarvinStocksPGMs.dir/main.cpp.obj	f2a8fc123cf17fb7
+1212	2280	7554580020000000	D:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/timestamp	9ab89ad496a1dd8a
+7	680	7554581740000000	D:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	dd50a77592b16736
+2286	4666	7554580020000000	CMakeFiles/QTEarvinStocksPGMs.dir/QTEarvinStocksPGMs_autogen/mocs_compilation.cpp.obj	d4a5390357bc6caf
+1212	2280	7554580020000000	QTEarvinStocksPGMs_autogen/timestamp	9ab89ad496a1dd8a
+1212	2280	7554580020000000	QTEarvinStocksPGMs_autogen/mocs_compilation.cpp	9ab89ad496a1dd8a
+1212	2280	7554580020000000	D:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/mocs_compilation.cpp	9ab89ad496a1dd8a
+2335	4830	7554580020000000	CMakeFiles/QTEarvinStocksPGMs.dir/qtearvinstockswindow.cpp.obj	5bde6cef26353eec
+4830	5079	7554580040000000	QTEarvinStocksPGMs.exe	71c5d2c1a6276d54
+687	2408	7554581760000000	build.ninja	4c7dc884d1eaf514
+6	678	7554581732100000	D:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	dd50a77592b16736
+701	1028	7554581732100000	QTEarvinStocksPGMs_autogen/timestamp	9ab89ad496a1dd8a
+701	1028	7554581732100000	QTEarvinStocksPGMs_autogen/mocs_compilation.cpp	9ab89ad496a1dd8a
+701	1028	7554581732100000	D:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/timestamp	9ab89ad496a1dd8a
+701	1028	7554581732100000	D:/WORKSPACES/GithubProjects/QTProjects/QTEarvinSTKPGMs/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QTEarvinStocksPGMs_autogen/mocs_compilation.cpp	9ab89ad496a1dd8a
+1028	3288	7554581780000000	CMakeFiles/QTEarvinStocksPGMs.dir/qtearvinstockswindow.cpp.obj	5bde6cef26353eec
+3288	3626	7554581800000000	QTEarvinStocksPGMs.exe	71c5d2c1a6276d54
